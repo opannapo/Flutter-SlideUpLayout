@@ -1,16 +1,29 @@
-# slideup
+# Flutter-SlideUpLayout
+Example SlideUp Layout
 
-A new Flutter project.
 
-## Getting Started
+# Output : 
+### Running on Device
 
-This project is a starting point for a Flutter application.
+ 
+# Point
+- Custom UI
+- BLoC (Business Logic Component)
+- View Logic Component
+- GestureDetector
+- Json (Local APP)
+- Animations
+- StreamBuilder
+- TabBarView
+- Load Assets & Fonts 
 
-A few resources to get you started if this is your first Flutter project:
+### Dependencies
+- flutter sdk
+- rxdart
+- intl
+- cupertino_icons
+- cached_network_image
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Assets
+- Image
+- Font
