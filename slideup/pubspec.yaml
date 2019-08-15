@@ -1,0 +1,45 @@
+name: slideup
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  rxdart: 0.21.0
+  cached_network_image: ^1.1.0
+  intl: ^0.15.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+  - assets/
+  - assets/ic_nav/
+  - assets/data/
+
+  fonts:
+  - family: avenir
+    fonts:
+    - asset: fonts/Avenir.ttc
+  - family: avenir-next
+    fonts:
+    - asset: fonts/AvenirNext.ttc
+  - family: helr45w
+    fonts:
+    - asset: fonts/HELR45W.ttf
+  - family: sairastencilone
+    fonts:
+    - asset: fonts/SairaStencilOne-Regular.ttf

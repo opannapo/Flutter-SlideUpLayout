@@ -1,0 +1,179 @@
+{
+  "list": [
+    {
+      "id": 4,
+      "title": "Tiny House A.1",
+      "viewCount": 2400,
+      "shareUrl": "www.opannapo.com",
+      "price": 400000000,
+      "seller": {
+        "id": 3,
+        "fullName": "Opannapo",
+        "imageProfile": "https://issues.joomla.org/images/avatars/meichenblatt.png",
+        "isActived": true,
+        "liveUrl": "www.hahaha.com",
+        "shareUrl": "www.hahaha.com",
+        "subscriber;": 3,
+        "gender": "M",
+        "rating": 3,
+        "hasSubscribe": true
+      },
+      "images": [
+        "https://cdn.cnn.com/cnnnext/dam/assets/180508113732-05-tiny-home-resorts-full-169.jpg",
+        "https://id1-cdn.pgimgs.com/listing/3845825/UPHO.15110396.V800/dijual-rumah-di-palembang-jl-kemang-manis-Palembang-Indonesia.jpg",
+        "https://apollo-singapore.akamaized.net/v1/files/ogpk19mek1tf-ID/image;s=966x691;olx-st/_1_.jpg",
+        "https://apollo-singapore.akamaized.net/v1/files/9oz3hmc1prm92-ID/image;s=966x691;olx-st/_1_.jpg"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Tiny House B.2",
+      "viewCount": 123,
+      "shareUrl": "www.opannapo.com",
+      "price": 420000000,
+      "seller": {
+        "id": 1,
+        "fullName": "Novita Anjasari",
+        "imageProfile": "https://www.bnl.gov/today/body_pics/2017/06/stephanhruszkewycz-hr.jpg",
+        "isActived": true,
+        "liveUrl": "www.hahaha.com",
+        "shareUrl": "www.hahaha.com",
+        "subscriber;": 1,
+        "gender": "M",
+        "rating": 1,
+        "hasSubscribe": true
+      },
+      "images": [
+        "https://www.tumbleweedhouses.com/wp-content/uploads/elm-cedar-black-1000x667.jpg?_t=1519431711",
+        "https://apollo-singapore.akamaized.net/v1/files/izlckabna84x-ID/image;s=966x691;olx-st/_1_.jpg",
+        "https://apollo-singapore.akamaized.net/v1/files/9oz3hmc1prm92-ID/image;s=966x691;olx-st/_1_.jpg",
+        "http://www.hargaroemah.com/wp-content/uploads/2017/01/Rumah-Dijual-Depan-Stadion-Joyokusumo-Pati.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Dream House C.3",
+      "viewCount": 12,
+      "shareUrl": "www.opannapo.com",
+      "price": 12000000,
+      "seller": {
+        "id": 3,
+        "fullName": "Alfatih",
+        "imageProfile": "https://www.mcs.anl.gov/~wild/images/Stefan_Wild_photo_smallrect.jpg",
+        "isActived": true,
+        "liveUrl": "www.hahaha.com",
+        "shareUrl": "www.hahaha.com",
+        "subscriber;": 3,
+        "gender": "M",
+        "rating": 3,
+        "hasSubscribe": true
+      },
+      "images": [
+        "https://boygeniusreport.files.wordpress.com/2019/08/allwood-arlanda-xl.jpg?quality=98&strip=all&w=782",
+        "https://id1-cdn.pgimgs.com/listing/3845825/UPHO.15110396.V800/dijual-rumah-di-palembang-jl-kemang-manis-Palembang-Indonesia.jpg",
+        "https://apollo-singapore.akamaized.net/v1/files/ogpk19mek1tf-ID/image;s=966x691;olx-st/_1_.jpg",
+        "http://www.hargaroemah.com/wp-content/uploads/2017/01/Rumah-Dijual-Depan-Stadion-Joyokusumo-Pati.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Dream House D.4",
+      "viewCount": 139,
+      "shareUrl": "www.opannapo.com",
+      "price": 17000000,
+      "seller": {
+        "id": 2,
+        "fullName": "Ibrahim",
+        "imageProfile": "https://phr.org/wp-content/uploads/2018/10/IMG_3048.jpg",
+        "isActived": true,
+        "liveUrl": "www.hahaha.com",
+        "shareUrl": "www.hahaha.com",
+        "subscriber;": 1,
+        "gender": "M",
+        "rating": 1,
+        "hasSubscribe": true
+      },
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2019-03-20-at-4-31-03-pm-1553113891.png?resize=480:*",
+        "https://id1-cdn.pgimgs.com/listing/3845825/UPHO.15110396.V800/dijual-rumah-di-palembang-jl-kemang-manis-Palembang-Indonesia.jpg",
+        "https://apollo-singapore.akamaized.net/v1/files/9oz3hmc1prm92-ID/image;s=966x691;olx-st/_1_.jpg",
+        "http://www.hargaroemah.com/wp-content/uploads/2017/01/Rumah-Dijual-Depan-Stadion-Joyokusumo-Pati.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Dream House E.5",
+      "viewCount": 17,
+      "shareUrl": "www.opannapo.com",
+      "price": 21000000,
+      "seller": {
+        "id": 3,
+        "fullName": "Khalid Ibrahim",
+        "imageProfile": "https://issues.joomla.org/images/avatars/meichenblatt.png",
+        "isActived": true,
+        "liveUrl": "www.hahaha.com",
+        "shareUrl": "www.hahaha.com",
+        "subscriber;": 3,
+        "gender": "M",
+        "rating": 3,
+        "hasSubscribe": true
+      },
+      "images": [
+        "https://www.gannett-cdn.com/-mm-/8d843c68f46657f33b9a44061121aedfede99b1f/c=0-286-3597-2318/local/-/media/2017/07/20/USATODAY/USATODAY/636361645722272489-7-Atticus---exterior-300-dpi.jpg?width=3200&height=1680&fit=crop",
+        "https://id1-cdn.pgimgs.com/listing/3845825/UPHO.15110396.V800/dijual-rumah-di-palembang-jl-kemang-manis-Palembang-Indonesia.jpg",
+        "https://apollo-singapore.akamaized.net/v1/files/ogpk19mek1tf-ID/image;s=966x691;olx-st/_1_.jpg",
+        "https://apollo-singapore.akamaized.net/v1/files/9oz3hmc1prm92-ID/image;s=966x691;olx-st/_1_.jpg"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Taman Impian",
+      "viewCount": 1972,
+      "shareUrl": "www.opannapo.com",
+      "price": 540000000,
+      "seller": {
+        "id": 1,
+        "fullName": "Opannapo",
+        "imageProfile": "https://www.bnl.gov/today/body_pics/2017/06/stephanhruszkewycz-hr.jpg",
+        "isActived": true,
+        "liveUrl": "www.hahaha.com",
+        "shareUrl": "www.hahaha.com",
+        "subscriber;": 1,
+        "gender": "M",
+        "rating": 1,
+        "hasSubscribe": true
+      },
+      "images": [
+        "https://propertyagent2015.files.wordpress.com/2016/04/p_20160330_162433.jpg",
+        "https://apollo-singapore.akamaized.net/v1/files/ogpk19mek1tf-ID/image;s=966x691;olx-st/_1_.jpg",
+        "https://apollo-singapore.akamaized.net/v1/files/9oz3hmc1prm92-ID/image;s=966x691;olx-st/_1_.jpg",
+        "http://www.hargaroemah.com/wp-content/uploads/2017/01/Rumah-Dijual-Depan-Stadion-Joyokusumo-Pati.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Rumah Adem",
+      "viewCount": 2,
+      "shareUrl": "www.opannapo.com",
+      "price": 2000,
+      "seller": {
+        "id": 2,
+        "fullName": "Opannapo2",
+        "imageProfile": "https://phr.org/wp-content/uploads/2018/10/IMG_3048.jpg",
+        "isActived": true,
+        "liveUrl": "www.hahaha.com",
+        "shareUrl": "www.hahaha.com",
+        "subscriber;": 1,
+        "gender": "M",
+        "rating": 1,
+        "hasSubscribe": true
+      },
+      "images": [
+        "https://charlotteagenda-charlotteagenda.netdna-ssl.com/wp-content/uploads/2017/08/Keyo_TinyHouse_201707_ONE-00-1.jpg",
+        "https://id1-cdn.pgimgs.com/listing/3845825/UPHO.15110396.V800/dijual-rumah-di-palembang-jl-kemang-manis-Palembang-Indonesia.jpg",
+        "https://apollo-singapore.akamaized.net/v1/files/9oz3hmc1prm92-ID/image;s=966x691;olx-st/_1_.jpg",
+        "http://www.hargaroemah.com/wp-content/uploads/2017/01/Rumah-Dijual-Depan-Stadion-Joyokusumo-Pati.jpg"
+      ]
+    }
+  ]
+}
