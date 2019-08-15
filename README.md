@@ -9,7 +9,7 @@ Example SlideUp Layout
 # Point
 - Custom UI
 - BLoC (Business Logic Component)
-- View Logic Component
+- View Logic Control
 - GestureDetector
 - Json (Local APP)
 - Animations
